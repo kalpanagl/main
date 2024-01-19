@@ -17,7 +17,8 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 |:--------------------|   
  
 | Schema support for Lakehouse   |
-**Schema support for Lakehouse
+
+**Schema support for Lakehouse**
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
 experience.
