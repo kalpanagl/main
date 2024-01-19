@@ -13,12 +13,14 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 
 **Create zero copy table clones in warehouse UI**
+
 Building upon the T-SQL table clone command, citizen developers can create zero
 copy table clones using the Warehouse UI with a single click.
 
 
 
 **Data warehouse REST APIs**
+
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
 experience.
