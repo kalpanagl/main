@@ -7,7 +7,6 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 |:--------------------|    
 | Semantic Link GA   |
 
-
 **Semantic Link GA**
 
 Semantic link bridges the gap between data science and BI by providing a Python
