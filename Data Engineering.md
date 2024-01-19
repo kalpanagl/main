@@ -1,5 +1,4 @@
-assetId: b4f24a95-beb5-ee11-a569-000d3a33817b 
-  # Data Engineering  Synapse Data Engineering empowers data engineers to be able to transform their data at scale using Spark and build out their lakehouse architecture. There are five key areas of Synapse Data Engineering that you can start using for your projects today:
+assetId: b4f24a95-beb5-ee11-a569-000d3a33817b   # Data Engineering  Synapse Data Engineering empowers data engineers to be able to transform their data at scale using Spark and build out their lakehouse architecture. There are five key areas of Synapse Data Engineering that you can start using for your projects today:
 
 Lakehouse for all your organizational data: The lakehouse is a new item in Fabric that combines the best of the data lake and the data warehouse in a single experience. It enables users to ingest, prepare, and share organizational data in an open format in the lake. Later you can access it through multiple engines such as Spark, T-SQL, and Power BI. It provides various data integration options such as dataflows and pipelines, shortcuts to external data sources, and data product sharing capabilities.
 
