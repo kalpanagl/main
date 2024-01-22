@@ -1,5 +1,4 @@
  ---
----
 title: "What's new and planned for Synapse Data Warehouse in Microsoft Fabric"
 description: See what's new and planned for Synapse Data Warehousein Microsoft Fabric. Fabric Data Warehouse release plans or roadmap.
 ms.reviewer: sngun
