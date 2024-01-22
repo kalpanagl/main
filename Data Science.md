@@ -1,5 +1,4 @@
  ---
----
 title: "What's new and planned for Synapse Data Science in Microsoft Fabric"
 description: See what's new and planned for Synapse Data Sciencein Microsoft Fabric. Fabric Data Science release plans or roadmap.
 ms.reviewer: sngun
