@@ -28,13 +28,15 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 |     **Feature**      | **Estimated release timeline** |    
 |:-------------------| :------------------------------:|  
-|[ Create zero copy table clones in warehouse UI ](# Create zero)|2024-11-21T18:30:00Z|
-|[ Data warehouse REST APIs ](# Data warehouse)|2024-01-30T18:30:00Z|
+|[Create zero copy table clones in warehouse UI](#Create zero)|2024-11-21T18:30:00Z|
+|[Data warehouse REST APIs](#Data warehouse)|2024-01-30T18:30:00Z|
+
 ### <a name="Create zero"></a>Create zero copy table clones in warehouse UI
 **Create zero copy table clones in warehouse UI**
 
 Building upon the T-SQL table clone command, citizen developers can create zero
 copy table clones using the Warehouse UI with a single click.
+
 
 
 ### <a name="Data warehouse"></a>Data warehouse REST APIs
