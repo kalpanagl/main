@@ -1,5 +1,4 @@
 ---
----
 title: "What's new and planned for Synapse Data Engineering in Microsoft Fabric"
 description: See what's new and planned for Synapse Data Engineeringin Microsoft Fabric. Fabric Data Engineering release plans or roadmap.
 ms.reviewer: sngun
