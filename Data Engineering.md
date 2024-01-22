@@ -34,8 +34,8 @@ Developer Experience: Developers can use notebooks, Spark jobs, or their preferr
 
 Platform Integration: All Synapse data engineering items, including notebooks, Spark jobs, pipelines, and lakehouses, are integrated deeply into the Fabric platform (enterprise information management capabilities, lineage, sensitivity labels, and endorsements). This integration will continue to deepen this semester with many new investments.
 
-|     **Feature**      |  Estimated release timeline |    
-|:-------------------| -----------:-------------------|   
+|     **Feature**      | **Estimated release timeline** |    
+|:-------------------| :------------------------------:|   
 | High concurrency in pipelines   |2024-09-24T18:30:00Z   | 
 | Schema support for Lakehouse   |2024-08-06T18:30:00Z   |
 
