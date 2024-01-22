@@ -1,4 +1,15 @@
- assetId: 882f93ef-bfb5-ee11-a569-000d3a33817b
+ 
+---
+title: "What's new and planned for Synapse Data Warehouse in Microsoft Fabric"
+description: See what's new and planned for Synapse Data Warehousein Microsoft Fabric. Fabric Data Warehouse release plans or roadmap.
+ms.reviewer: sngun
+ms.author: sngun
+author: snehagunda
+ms.topic: conceptual
+ms.date: 10/04/2023
+ms.assetId: 882f93ef-bfb5-ee11-a569-000d3a33817b
+---
+
   
 # Data Warehouse
 
