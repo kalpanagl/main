@@ -1,7 +1,7 @@
  
 - - -
 
-title: "What's new and planned for Synapse Data Science in Microsoft Fabric"v
+title: "What's new and planned for Synapse Data Science in Microsoft Fabric 
 
 description: See what's new and planned for Synapse Data Sciencein Microsoft Fabric. Fabric Data Science release plans or roadmap.
 
@@ -13,7 +13,7 @@ author: snehagunda
 
 ms.topic: conceptual
 
-ms.date: 10/04/2023
+ms.date: 22-01-2024 
 
 ms.assetId: 688800c2-c0b5-ee11-a569-000d3a33817b
 
