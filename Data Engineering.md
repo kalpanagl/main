@@ -33,10 +33,11 @@ Spark Admin & configurations: Workspace admins with appropriate permissions can 
 Developer Experience: Developers can use notebooks, Spark jobs, or their preferred IDE to author and execute Spark code in Fabric. They can natively access the lakehouse data, collaborate with others, install libraries, track history, do in-line monitoring, and get recommendations from the Spark advisor. They can also use Data Wrangler to easily prepare data with a low-code UI.
 
 Platform Integration: All Synapse data engineering items, including notebooks, Spark jobs, pipelines, and lakehouses, are integrated deeply into the Fabric platform (enterprise information management capabilities, lineage, sensitivity labels, and endorsements). This integration will continue to deepen this semester with many new investments.
-|     **Feature**      | 
-|:--------------------|    
-| High concurrency in pipelines   | 
-| Schema support for Lakehouse   |
+|     **Feature**      |  Estimated release timeline |    
+
+|:-------------------| -----------:-------------------|   
+| High concurrency in pipelines   |2024-09-24T18:30:00Z   | 
+| Schema support for Lakehouse   |2024-08-06T18:30:00Z   |
 
 **High concurrency in pipelines**
 
