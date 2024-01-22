@@ -36,14 +36,16 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |    
 |:-------------------| :------------------------------:|  
-|[ High concurrency in pipelines ](# High concurrency)|2024-09-24T18:30:00Z|
-|[ Schema support for Lakehouse ](# Schema support)|2024-08-06T18:30:00Z|
+|[High concurrency in pipelines](#High concurrency)|2024-09-24T18:30:00Z|
+|[Schema support for Lakehouse](#Schema support)|2024-08-06T18:30:00Z|
+
 ### <a name="High concurrency"></a>High concurrency in pipelines
 **High concurrency in pipelines**
 
 In addition to high concurrency in notebooks, we will also enable high
 concurrency in pipelines. This capability will allow you to run multiple
 notebooks in a pipeline with a single session.
+
 
 
 ### <a name="Schema support"></a>Schema support for Lakehouse
