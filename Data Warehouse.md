@@ -26,8 +26,8 @@ Synapse Data Warehouse in Microsoft Fabric is the first data warehouse that supp
 
 Data warehousing workloads benefit from the rich capabilities of the SQL engine over an open data format, enabling customers to focus on analysis and reporting. They also benefit from accessing data from OneLake, a data lake storage virtualization service.
 
-|     **Feature**      |  Estimated release timeline |    
-|:-------------------| -----------:-------------------|   
+|     **Feature**      | **Estimated release timeline** |    
+|:-------------------| :------------------------------:|   
 | Create zero copy table clones in warehouse UI   |2024-11-21T18:30:00Z   | 
 | Data warehouse REST APIs   |2024-01-30T18:30:00Z   |
 
