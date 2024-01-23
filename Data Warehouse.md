@@ -25,7 +25,7 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |  
 
-|:-------------------| :------------------------------:|_
+|:-------------------| :------------------------------:|
 |[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
 |[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
 
@@ -55,7 +55,7 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 
 |     **Feature**      | **Estimated release timeline** |  
 
-|:-------------------| :------------------------------:|_
+|:-------------------| :------------------------------:|
 |[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
 |[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
 |[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
@@ -93,7 +93,7 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 |     **Feature**      | **Estimated release timeline** |  
 
-|:-------------------| :------------------------------:|_
+|:-------------------| :------------------------------:|
 |[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
 |[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
 |[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
