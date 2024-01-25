@@ -1,6 +1,6 @@
 ---
 title: "What's new and planned for Synapse Data Science in Microsoft Fabric"
-description: See what's new and planned for Synapse Data Sciencein Microsoft Fabric. Fabric Data Science release plans or roadmap.
+description: See what's new and planned for Synapse Data Science in Microsoft Fabric. Fabric Data Science release plans or roadmap.
 ms.reviewer: sngun
 ms.author: sngun
 author: snehagunda
@@ -17,8 +17,9 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 |:-------------------| :------------------------------:|
 |[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
 
+
 ### <a name="Semantic-Link"></a>Semantic Link GA
-**Semantic Link GA:2024-09-26T18:30:00Z**
+**Semantic Link GA:  2024-09-26T18:30:00Z**
 
 Semantic link bridges the gap between data science and BI by providing a Python
 library (SemPy) that enables data scientists to interact with Power BI datasets
