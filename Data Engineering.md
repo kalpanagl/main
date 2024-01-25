@@ -1,6 +1,6 @@
 ---
 title: "What's new and planned for Synapse Data Engineering in Microsoft Fabric"
-description: See what's new and planned for Synapse Data Engineeringin Microsoft Fabric. Fabric Data Engineering release plans or roadmap.
+description: See what's new and planned for Synapse Data Engineering in Microsoft Fabric. Fabric Data Engineering release plans or roadmap.
 ms.reviewer: sngun
 ms.author: sngun
 author: snehagunda
@@ -25,10 +25,12 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z||[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
+|[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
+|[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
+
 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
-**High concurrency in pipelines:2024-09-24T18:30:00Z**
+**High concurrency in pipelines:  2024-09-24T18:30:00Z**
 
 In addition to high concurrency in notebooks, we will also enable high
 concurrency in pipelines. This capability will allow you to run multiple
@@ -37,7 +39,7 @@ notebooks in a pipeline with a single session.
 
 
 ### <a name="Schema-support"></a>Schema support for Lakehouse
-**Schema support for Lakehouse:2024-08-06T18:30:00Z**
+**Schema support for Lakehouse:  2024-08-06T18:30:00Z**
 
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
