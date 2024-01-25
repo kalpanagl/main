@@ -19,6 +19,7 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 |:-------------------| :------------------------------:|
 |[Create zero copy table clones in warehouse UI](#Create-zero)|2024-11-21T18:30:00Z|
 |[Data warehouse REST APIs](#Data-warehouse)|2024-01-30T18:30:00Z|
+|[Workload history and query insights](#Workload-history)|2023-12-28T18:30:00Z|
 
 
 ### <a name="Create-zero"></a>Create zero copy table clones in warehouse UI
@@ -35,5 +36,14 @@ copy table clones using the Warehouse UI with a single click.
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
 experience.
+
+
+
+### <a name="Workload-history"></a>Workload history and query insights
+**Workload history and query insights:  2023-12-28T18:30:00Z**
+
+You can view their workload, query history, and details through built-in Views.
+They can also gain insights for troubleshooting and debugging long-running and
+frequently executed queries.
 
 
