@@ -26,6 +26,7 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
 |[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
+|[Policy Management](#Policy-Management)|2024-05-23T18:30:00Z|
 |[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
 
 
@@ -35,6 +36,17 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 In addition to high concurrency in notebooks, we will also enable high
 concurrency in pipelines. This capability will allow you to run multiple
 notebooks in a pipeline with a single session.
+
+
+
+### <a name="Policy-Management"></a>Policy Management
+**Policy Management:  2024-05-23T18:30:00Z**
+
+Workspace admins will be able to author and enforce policies based on Spark
+properties, ensuring that your workloads comply with certain rules. For example,
+they can limit the number of resources, the time that a workload can consume, or
+prevent users from changing certain Spark settings. This will enhance the
+governance and security of your Spark workloads.
 
 
 
