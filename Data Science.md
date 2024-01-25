@@ -14,7 +14,6 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 ## Investment areas
 
 |     **Feature**      | **Estimated release timeline** |  
-
 |:-------------------| :------------------------------:|
 |[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
 
