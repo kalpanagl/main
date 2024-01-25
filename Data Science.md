@@ -15,7 +15,18 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
+|[CI/CD support for data science items](#CI/CD-support)|2024-06-18T18:30:00Z|
 |[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
+
+
+### <a name="CI/CD-support"></a>CI/CD support for data science items
+**CI/CD support for data science items:  2024-06-18T18:30:00Z**
+
+You can use the platform git integration and deployment pipelines to version
+your data science solutions and deploy them across dev, test, and production
+workspaces. You can use the UI experience or automate the process through Azure
+Pipelines.
+
 
 
 ### <a name="Semantic-Link"></a>Semantic Link GA
