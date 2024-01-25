@@ -20,4 +20,11 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 ### <a name="Semantic-Link"></a>Semantic Link GA
 **Semantic Link GA:2024-09-26T18:30:00Z**
 
+Semantic link bridges the gap between data science and BI by providing a Python
+library (SemPy) that enables data scientists to interact with Power BI datasets
+and measures. You can use SemPy to read, explore, query, and validate data in
+Power BI from Python notebooks, and use the library's features to detect and
+resolve data challenges. Users can also write back to the Power BI dataset
+through the lakehouse with Direct Lake mode.
+
 
