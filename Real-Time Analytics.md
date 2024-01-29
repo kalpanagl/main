@@ -41,7 +41,7 @@ Eventstreams support data ingestion from Azure IoT Hub (Announcement blog)
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[Data streaming from Kafka to eventstreams](#Data-streaming)|Q2|
+|[Data streaming from Kafka to eventstreams](#Data-streaming)|Q2 2024|
 
 
 ### <a name="Data-streaming"></a>Data streaming from Kafka to eventstreams
