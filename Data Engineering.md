@@ -31,7 +31,7 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
-**High concurrency in pipelines:  2024-09-24T18:30:00Z**
+**High concurrency in pipelines:  Q3 2024**
 
 In addition to high concurrency in notebooks, we will also enable high
 concurrency in pipelines. This capability will allow you to run multiple
@@ -40,7 +40,7 @@ notebooks in a pipeline with a single session.
 
 
 ### <a name="Policy-Management"></a>Policy Management
-**Policy Management:  2024-05-23T18:30:00Z**
+**Policy Management:  Q2 2024**
 
 Workspace admins will be able to author and enforce policies based on Spark
 properties, ensuring that your workloads comply with certain rules. For example,
@@ -51,7 +51,7 @@ governance and security of your Spark workloads.
 
 
 ### <a name="Schema-support"></a>Schema support for Lakehouse
-**Schema support for Lakehouse:  2024-08-06T18:30:00Z**
+**Schema support for Lakehouse:  Q3 2024**
 
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
