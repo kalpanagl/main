@@ -17,9 +17,9 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[Create zero copy table clones in warehouse UI](#Create-zero)|Q4|
-|[Data warehouse REST APIs](#Data-warehouse)|Q1|
-|[Workload history and query insights](#Workload-history)|Q4|
+|[Create zero copy table clones in warehouse UI](#Create-zero)|Q4 2024|
+|[Data warehouse REST APIs](#Data-warehouse)|Q1 2024|
+|[Workload history and query insights](#Workload-history)|Q4 2023|
 
 
 ### <a name="Create-zero"></a>Create zero copy table clones in warehouse UI
