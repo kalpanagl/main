@@ -25,7 +25,10 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))
+|[High concurrency in pipelines](#High-concurrency)|Q3|
+|[Policy Management](#Policy-Management)|Q2|
+|[Schema support for Lakehouse](#Schema-support)|Q3|
+
 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
 **High concurrency in pipelines:  2024-09-24T18:30:00Z**
