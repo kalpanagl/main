@@ -5,7 +5,7 @@ ms.reviewer: sngun
 ms.author: sngun
 author: snehagunda
 ms.topic: conceptual
-ms.date: 25-01-2024 
+ms.date: 29-01-2024 
 ms.assetId: 688800c2-c0b5-ee11-a569-000d3a33817b
 ---
 # Data Science
@@ -15,9 +15,7 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[CI/CD support for data science items](#CI/CD-support)|2024-06-18T18:30:00Z|
-|[Semantic Link GA](#Semantic-Link)|2024-09-26T18:30:00Z|
-
+concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))
 
 ### <a name="CI/CD-support"></a>CI/CD support for data science items
 **CI/CD support for data science items:  2024-06-18T18:30:00Z**
