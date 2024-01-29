@@ -5,7 +5,7 @@ ms.reviewer: sngun
 ms.author: sngun
 author: snehagunda
 ms.topic: conceptual
-ms.date: 25-01-2024 
+ms.date: 29-01-2024 
 ms.assetId: b4f24a95-beb5-ee11-a569-000d3a33817b
 ---
 # Data Engineering
@@ -25,10 +25,7 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[High concurrency in pipelines](#High-concurrency)|2024-09-24T18:30:00Z|
-|[Policy Management](#Policy-Management)|2024-05-23T18:30:00Z|
-|[Schema support for Lakehouse](#Schema-support)|2024-08-06T18:30:00Z|
-
+concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))
 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
 **High concurrency in pipelines:  2024-09-24T18:30:00Z**
