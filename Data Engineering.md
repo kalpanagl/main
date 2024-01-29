@@ -21,27 +21,27 @@ Spark Admin & configurations: Workspace admins with appropriate permissions can 
 Developer Experience: Developers can use notebooks, Spark jobs, or their preferred IDE to author and execute Spark code in Fabric. They can natively access the lakehouse data, collaborate with others, install libraries, track history, do in-line monitoring, and get recommendations from the Spark advisor. They can also use Data Wrangler to easily prepare data with a low-code UI.
 
 Platform Integration: All Synapse data engineering items, including notebooks, Spark jobs, pipelines, and lakehouses, are integrated deeply into the Fabric platform (enterprise information management capabilities, lineage, sensitivity labels, and endorsements). This integration will continue to deepen this semester with many new investments.
-## Investment areas
-
+ ## Investment areas
+ 
 |     **Feature**      | **Estimated release timeline** |  
-|:-------------------| :------------------------------:|
+|--------------------| ----------------------------------|
 |[High concurrency in pipelines](#High-concurrency)|Q3 2024|
 |[Policy Management](#Policy-Management)|Q2 2024|
 |[Schema support for Lakehouse](#Schema-support)|Q3 2024|
-
-
+ 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
-**High concurrency in pipelines:  Q3 2024**
-
+**Estimated release timelines: Q3 2024**
+<!-- High-concurrency start -->
 In addition to high concurrency in notebooks, we will also enable high
 concurrency in pipelines. This capability will allow you to run multiple
 notebooks in a pipeline with a single session.
 
 
+<!-- High-concurrency end -->
 
 ### <a name="Policy-Management"></a>Policy Management
-**Policy Management:  Q2 2024**
-
+**Estimated release timelines: Q2 2024**
+<!-- Policy-Management start -->
 Workspace admins will be able to author and enforce policies based on Spark
 properties, ensuring that your workloads comply with certain rules. For example,
 they can limit the number of resources, the time that a workload can consume, or
@@ -49,12 +49,14 @@ prevent users from changing certain Spark settings. This will enhance the
 governance and security of your Spark workloads.
 
 
+<!-- Policy-Management end -->
 
 ### <a name="Schema-support"></a>Schema support for Lakehouse
-**Schema support for Lakehouse:  Q3 2024**
-
+**Estimated release timelines: Q3 2024**
+<!-- Schema-support start -->
 The lakehouse will support 3-part naming convention. It enables you to add
 schemas to your lakehouses, which is consistent with the current warehouse
 experience.
 
 
+<!-- Schema-support end -->
