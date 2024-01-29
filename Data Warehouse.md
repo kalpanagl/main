@@ -17,7 +17,10 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))
+|[Create zero copy table clones in warehouse UI](#Create-zero)|Q4|
+|[Data warehouse REST APIs](#Data-warehouse)|Q1|
+|[Workload history and query insights](#Workload-history)|Q4|
+
 
 ### <a name="Create-zero"></a>Create zero copy table clones in warehouse UI
 **Create zero copy table clones in warehouse UI:  2024-11-21T18:30:00Z**
