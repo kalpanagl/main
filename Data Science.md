@@ -15,8 +15,8 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[CI/CD support for data science items](#CI/CD-support)|Q2|
-|[Semantic Link GA](#Semantic-Link)|Q3|
+|[CI/CD support for data science items](#CI/CD-support)|Q2 2024|
+|[Semantic Link GA](#Semantic-Link)|Q3 2024|
 
 
 ### <a name="CI/CD-support"></a>CI/CD support for data science items
