@@ -20,7 +20,7 @@ Synapse Data Science provides data scientists with an end-to-end workflow for bu
 
 
 ### <a name="CI/CD-support"></a>CI/CD support for data science items
-**CI/CD support for data science items:  2024-06-18T18:30:00Z**
+**CI/CD support for data science items:  Q2 2024**
 
 You can use the platform git integration and deployment pipelines to version
 your data science solutions and deploy them across dev, test, and production
@@ -30,7 +30,7 @@ Pipelines.
 
 
 ### <a name="Semantic-Link"></a>Semantic Link GA
-**Semantic Link GA:  2024-09-26T18:30:00Z**
+**Semantic Link GA:  Q3 2024**
 
 Semantic link bridges the gap between data science and BI by providing a Python
 library (SemPy) that enables data scientists to interact with Power BI datasets
