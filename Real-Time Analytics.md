@@ -37,18 +37,18 @@ Model and query data as graphs using Kusto Query Language (KQL) (Announcement bl
 Eventstreams support AMQP format connection string for data ingestion (Announcement blog)
 
 Eventstreams support data ingestion from Azure IoT Hub (Announcement blog)
-## Investment areas
-
+ ## Investment areas
+ 
 |     **Feature**      | **Estimated release timeline** |  
-|:-------------------| :------------------------------:|
+|--------------------| ----------------------------------|
 |[Data streaming from Kafka to eventstreams](#Data-streaming)|Q2 2024|
-
-
+ 
 ### <a name="Data-streaming"></a>Data streaming from Kafka to eventstreams
-**Data streaming from Kafka to eventstreams:  Q2 2024**
-
+**Estimated release timelines: Q2 2024**
+<!-- Data-streaming start -->
 Customers can subscribe to Azure resource events (like Blob storage events),
 partner events (like SAP), custom events, or MQTT topics, and then have them
 streamed to eventstreams.
 
 
+<!-- Data-streaming end -->
