@@ -25,9 +25,9 @@ Platform Integration: All Synapse data engineering items, including notebooks, S
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[High concurrency in pipelines](#High-concurrency)|Q3|
-|[Policy Management](#Policy-Management)|Q2|
-|[Schema support for Lakehouse](#Schema-support)|Q3|
+|[High concurrency in pipelines](#High-concurrency)|Q3 2024|
+|[Policy Management](#Policy-Management)|Q2 2024|
+|[Schema support for Lakehouse](#Schema-support)|Q3 2024|
 
 
 ### <a name="High-concurrency"></a>High concurrency in pipelines
