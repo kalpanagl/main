@@ -45,7 +45,7 @@ Eventstreams support data ingestion from Azure IoT Hub (Announcement blog)
 
 
 ### <a name="Data-streaming"></a>Data streaming from Kafka to eventstreams
-**Data streaming from Kafka to eventstreams:  2024-04-25T18:30:00Z**
+**Data streaming from Kafka to eventstreams:  Q2 2024**
 
 Customers can subscribe to Azure resource events (like Blob storage events),
 partner events (like SAP), custom events, or MQTT topics, and then have them
