@@ -5,7 +5,7 @@ ms.reviewer: sngun
 ms.author: sngun
 author: snehagunda
 ms.topic: conceptual
-ms.date: 25-01-2024 
+ms.date: 29-01-2024 
 ms.assetId: 882f93ef-bfb5-ee11-a569-000d3a33817b
 ---
 # Data Warehouse
@@ -17,10 +17,7 @@ Data warehousing workloads benefit from the rich capabilities of the SQL engine 
 
 |     **Feature**      | **Estimated release timeline** |  
 |:-------------------| :------------------------------:|
-|[Create zero copy table clones in warehouse UI](#Create-zero)|2024-11-21T18:30:00Z|
-|[Data warehouse REST APIs](#Data-warehouse)|2024-01-30T18:30:00Z|
-|[Workload history and query insights](#Workload-history)|2023-12-28T18:30:00Z|
-
+concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))concat('|[',items('For_Each_Release_Item')?['msad_featurename'],'](#',outputs('compose_hyperLink_'),')|',outputs('Compose_ReleaseDate'),'|',variables('var_newLine'))
 
 ### <a name="Create-zero"></a>Create zero copy table clones in warehouse UI
 **Create zero copy table clones in warehouse UI:  2024-11-21T18:30:00Z**
